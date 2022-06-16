@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a2128b28-da81-41a5-a00d-f8307ae96f65": {
+      "ProjectGuid": "a2128b28-da81-41a5-a00d-f8307ae96f65",
+      "DisplayName": "我的世界材质包转换器",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
